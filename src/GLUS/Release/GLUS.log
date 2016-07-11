@@ -1,0 +1,21 @@
+﻿Сборка начата 19.12.2015 23:25:58.
+     1>Проект "C:\Users\markitosha\Desktop\task4_cloth_template\src\GLUS\GLUS.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IExternal\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MT /GS /Gy /arch:SSE2 /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /FR"Release\\" /Gd /TC /analyze- /errorReport:prompt glus_shaderprogram.c
+         glus_shaderprogram.c
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\markitosha\Desktop\task4_cloth_template\src\Release\GLUS.lib" /NOLOGO /LTCG Release\glus_load.obj
+         Release\glus_matrix.obj
+         Release\glus_modelview.obj
+         Release\glus_shaderprogram.obj
+         Release\glus_shape.obj
+         Release\glus_vector.obj
+         Release\glus_windows.obj
+         GLUS.vcxproj -> C:\Users\markitosha\Desktop\task4_cloth_template\src\Release\GLUS.lib
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o"C:\Users\markitosha\Desktop\task4_cloth_template\src\Release\GLUS.bsc" /n Release\glus_load.sbr Release\glus_matrix.sbr Release\glus_modelview.sbr Release\glus_shaderprogram.sbr Release\glus_shape.sbr Release\glus_vector.sbr Release\glus_windows.sbr
+     1>Сборка проекта "C:\Users\markitosha\Desktop\task4_cloth_template\src\GLUS\GLUS.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.45
